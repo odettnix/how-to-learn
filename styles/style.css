@@ -105,7 +105,7 @@
 =================================*/
 
 .description{
-  padding: 100px 0 0 0 ;
+  padding: 100px 0 0 0;
 }
 
 .two-columns{
@@ -295,7 +295,7 @@
 
 .kaufman__triangle{
   width: 877px;
-  height: 877px; 
+  height: 877px;
   background-image: url(../images/kaufman-triangle.svg);
   position: absolute;
   background-size: contain;
