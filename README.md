@@ -4,6 +4,6 @@
 ### Для реализации данного проекта использовались css и HTML.
 ### В ходе выполнения данной учебной работы были испольованы: flex-верстка, анимации (реализованные с помощью @keyframes в css), iframes для вставки видео.
 ![image](https://user-images.githubusercontent.com/80402777/180778032-94242828-78e9-413a-98dd-c1a64809bcf9.png)
-![2022-07-25-15-38-29](https://user-images.githubusercontent.com/80402777/180779754-faa75579-a190-4317-81ae-deb4761d040b.gif)
+![2022-07-25 15-38-29](https://user-images.githubusercontent.com/80402777/180780160-15034fa7-94fe-4d4b-8c7b-d23a25fe21d9.gif)
 ### Файловая структура сделана по БЭМ и организована в Nested-структуре. 
   
