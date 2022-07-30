@@ -4,6 +4,6 @@
     box-sizing: border-box;
     text-align: center;
     position: relative;
-    height: 890px;
+    min-height: 890px;
     background-color:  #f2f2f2;
   }
